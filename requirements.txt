@@ -17,7 +17,7 @@ mistune==0.8.4
 networkx==2.2
 pyrsistent==0.14.11
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 relativetimebuilder==0.2.0
 requests==2.21.0
 six==1.12.0
